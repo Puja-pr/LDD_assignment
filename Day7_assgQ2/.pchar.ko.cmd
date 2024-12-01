@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/ldd_classwork/Day7_assgQ2/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sunbeam/ldd_classwork/Day7_assgQ2/pchar.ko /home/sunbeam/ldd_classwork/Day7_assgQ2/pchar.o /home/sunbeam/ldd_classwork/Day7_assgQ2/pchar.mod.o
